@@ -43,3 +43,4 @@ The JSON file of new wallet will be created in a new folder called `Wallet-JSON-
 
 ## Author
 ☕ Buy me a coffee: `jsmjsm.eth` or `secret1jpvdqpaa8ehje9pwjdrszz9vh75jdpk9ttpd5p`
+Twitter: [@0xon99](https://twitter.com/0xon99) | [@un.Block Team](https://twitter.com/unBlock256)
