@@ -40,3 +40,6 @@ node ./CreateWallet.js testWallet 5
 The JSON file of new wallet will be created in a new folder called `Wallet-JSON-<walletname>`
 
 **PLEASE TAKE CARE OF THE JSON FILE, DO NOT DELETE IT, IT IS IMPORTANT TO YOU.**
+
+## Author
+☕ Buy me a coffee: `jsmjsm.eth` or `secret1jpvdqpaa8ehje9pwjdrszz9vh75jdpk9ttpd5p`
