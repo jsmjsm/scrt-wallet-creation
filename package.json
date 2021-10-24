@@ -1,0 +1,18 @@
+{
+    "name": "scrt-airdrop",
+    "version": "1.0.0",
+    "description": "create secret network wallet",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "jsmjsm",
+    "license": "ISC",
+    "dependencies": {
+        "file-saver": "^2.0.5",
+        "git": "^0.1.5",
+        "js-logger": "^1.6.1",
+        "logger": "^0.0.1",
+        "shelljs": "^0.8.4"
+    }
+}
